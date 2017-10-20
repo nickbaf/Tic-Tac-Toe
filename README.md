@@ -6,4 +6,4 @@ The Original Tic-Tac-Toe game in Python..!!
 
 In this project, we had to implement the Tic-Tac-Toe game in python. For the CPU’s movements, I used the Minimax AI-based Algorithm for finding the best solution.
 
- <br> The project was succesfully evalueted in March 2016 with score <b>1 /1</b>
+ <br> The project was succesfully evaluated in March 2016 with score <b>1 /1</b>
